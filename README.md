@@ -1,20 +1,20 @@
 <p align="center">
-  <img src="https://qu.ax/qESyd.jpg" alt="Yilzi Portfolio Banner" width="900" style="border-radius: 15px; box-shadow: 0 8px 30px rgba(30, 144, 255, 0.4), 0 0 15px rgba(0, 191, 255, 0.2); transition: transform 0.4s ease-in-out; position: relative; z-index: 1;" onmouseover="this.style.transform='scale(1.03) rotate(2deg)';" onmouseout="this.style.transform='scale(1) rotate(0deg)';"/>
+  <img src="https://files.catbox.moe/zxxisb.jpeg" alt="Dafa Portfolio Banner" width="900" style="border-radius: 15px; box-shadow: 0 8px 30px rgba(30, 144, 255, 0.4), 0 0 15px rgba(0, 191, 255, 0.2); transition: transform 0.4s ease-in-out; position: relative; z-index: 1;" onmouseover="this.style.transform='scale(1.03) rotate(2deg)';" onmouseout="this.style.transform='scale(1) rotate(0deg)';"/>
 </p>
 
 <div style="background: linear-gradient(135deg, #1C2526, #2A3D5A); padding: 50px; border-radius: 15px; box-shadow: 0 12px 40px rgba(0, 0, 0, 0.7), inset 0 0 15px rgba(30, 144, 255, 0.1); color: #E6F3FF; font-family: 'Inter', sans-serif; text-align: center; position: relative; overflow: hidden;">
   <h1 style="font-size: 56px; color: #00BFFF; text-shadow: 0 0 20px rgba(30, 144, 255, 0.5), 0 0 10px rgba(30, 144, 255, 0.3); letter-spacing: 2px; margin-bottom: 15px;">
-    <img src="https://files.catbox.moe/gwx59h.jpg" width="30"> Yilzi Portfolio
+    <img src="https://files.catbox.moe/gwx59h.jpg" width="30"> Dafa Portfolio
   </h1>
   <p style="font-size: 20px; color: #E6F3FF; font-family: 'Inter', sans-serif; text-shadow: 0 0 10px rgba(230, 243, 255, 0.3); line-height: 1.6;">
     🚀 <strong>Personal Portfolio Website</strong> 🌌 <br>
     Showcasing my skills, projects, and services with a responsive design and interactive features.
   </p>
   <div style="margin: 25px 0; position: relative; z-index: 2;">
-    <a href="https://github.com/YilziiHCT/website-portofolio1/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" style="margin: 0 5px;"/></a>
-    <a href="https://github.com/YilziiHCT/website-portofolio1/stargazers"><img src="https://img.shields.io/github/stars/YilziiHCT/website-portofolio1" alt="Stars" style="margin: 0 5px;"/></a>
-    <a href="https://github.com/YilziiHCT/website-portofolio1/issues"><img src="https://img.shields.io/github/issues/YilziiHCT/website-portofolio1" alt="Issues" style="margin: 0 5px;"/></a>
-    <a href="https://github.com/YilziiHCT/website-portofolio1/network/members"><img src="https://img.shields.io/github/forks/YilziiHCT/website-portofolio1" alt="Forks" style="margin: 0 5px;"/></a>
+    <a href="https://github.com/Dafzzz128/website-portofolio1/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" style="margin: 0 5px;"/></a>
+    <a href="https://github.com/Dafzzz128/website-portofolio1/stargazers"><img src="https://img.shields.io/github/stars/Dafzzz128/website-portofolio1" alt="Stars" style="margin: 0 5px;"/></a>
+    <a href="https://github.com/Dafzzz128/website-portofolio1/issues"><img src="https://img.shields.io/github/issues/Dafzzz128/website-portofolio1" alt="Issues" style="margin: 0 5px;"/></a>
+    <a href="https://github.com/Dafzzz128/website-portofolio1/network/members"><img src="https://img.shields.io/github/forks/Dafzzz128/website-portofolio1" alt="Forks" style="margin: 0 5px;"/></a>
     <a href="https://website-portofolio1.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-Vercel-1E90FF" alt="Live Demo" style="margin: 0 5px;"/></a>
   </div>
   <p style="font-size: 18px; color: #E6F3FF; font-family: 'Inter', sans-serif;">
@@ -30,7 +30,7 @@
 <div style="background: linear-gradient(135deg, #1C2526, #2A3D5A); padding: 50px; border-radius: 15px; box-shadow: 0 12px 40px rgba(0, 0, 0, 0.7), inset 0 0 15px rgba(30, 144, 255, 0.1); color: #E6F3FF; font-family: 'Inter', sans-serif; margin-top: 20px; position: relative;">
   <h2 align="center" style="color: #00BFFF; text-shadow: 0 0 15px rgba(30, 144, 255, 0.4); font-size: 34px;">🌌 Introduction</h2>
   <p align="center" style="font-size: 18px; line-height: 1.7; color: #E6F3FF;">
-    Welcome to my personal portfolio website! I am Yilzi, a Computer Network and Telecommunications student with a passion for web development, focusing on front-end and back-end technologies.
+    Welcome to my personal portfolio website! I am Dafa, a Computer Network and Telecommunications student with a passion for web development, focusing on front-end and back-end technologies.
   </p>
   <div style="position: absolute; top: 10px; left: 10px; width: 80px; height: 80px; background: radial-gradient(circle, rgba(30, 144, 255, 0.15) 0%, transparent 60%); border-radius: 50%; z-index: 0;"></div>
   <div style="position: absolute; bottom: 10px; right: 10px; width: 120px; height: 120px; background: radial-gradient(circle, rgba(70, 130, 180, 0.15) 0%, transparent 60%); border-radius: 50%; z-index: 0;"></div>
@@ -99,7 +99,7 @@
   <h3 style="color: #00BFFF; text-shadow: 0 0 15px rgba(30, 144, 255, 0.4); font-size: 28px;">🛠 Installation</h3>
   <ol style="line-height: 1.8; color: #E6F3FF;">
     <li><strong>Clone the repository</strong>:
-      <pre style="background: #252c33; padding: 15px; border-radius: 10px; box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5); color: #E6F3FF;"><code>git clone https://github.com/YilziiHCT/website-portofolio1.git
+      <pre style="background: #252c33; padding: 15px; border-radius: 10px; box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5); color: #E6F3FF;"><code>git clone https://github.com/Dafzzz128/website-portofolio1.git
 cd website-portofolio1</code></pre>
     </li>
     <li><strong>Open in browser</strong>:
@@ -134,7 +134,7 @@ website-portofolio1/
       <pre style="background: #252c33; padding: 15px; border-radius: 10px; box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5); color: #E6F3FF;"><code>git init
 git add .
 git commit -m "Initial commit"
-git remote add origin https://github.com/YilziiHCT/website-portofolio1.git
+git remote add origin https://github.com/Dafzz128/website-portofolio1.git
 git branch -M main
 git push -u origin main</code></pre>
     </li>
@@ -156,7 +156,7 @@ git push -u origin main</code></pre>
 <div style="background: linear-gradient(135deg, #1C2526, #2A3D5A); padding: 50px; border-radius: 15px; box-shadow: 0 12px 40px rgba(0, 0, 0, 0.7), inset 0 0 15px rgba(30, 144, 255, 0.1); color: #E6F3FF; font-family: 'Inter', sans-serif; margin-top: 20px;">
   <pre style="background: #252c33; padding: 15px; border-radius: 10px; box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5); color: #E6F3FF;">MIT License
 
-Copyright (c) 2025 Yilzi
+Copyright (c) 2025 Dafa
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -180,6 +180,6 @@ SOFTWARE.</pre>
 ---
 
 <p align="center" style="color: #E6F3FF; font-family: 'Inter', sans-serif; margin-top: 20px;">
-  🌟 <strong>Yilzi Portfolio</strong> - Showcasing My Web Development Journey 🚀 <br>
-  <a href="https://github.com/YilziiHCT/website-portofolio1" style="background: linear-gradient(90deg, #1E90FF, #4682B4); color: #FFFFFF; padding: 15px 30px; border-radius: 10px; text-decoration: none; font-weight: bold; box-shadow: 0 5px 20px rgba(30, 144, 255, 0.4); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">View on GitHub</a>
+  🌟 <strong>Dafa Portfolio</strong> - Showcasing My Web Development Journey 🚀 <br>
+  <a href="https://github.com/Dafzzz128/website-portofolio1" style="background: linear-gradient(90deg, #1E90FF, #4682B4); color: #FFFFFF; padding: 15px 30px; border-radius: 10px; text-decoration: none; font-weight: bold; box-shadow: 0 5px 20px rgba(30, 144, 255, 0.4); transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';">View on GitHub</a>
 </p>
